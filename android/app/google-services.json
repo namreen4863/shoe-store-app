@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409133474598",
+    "project_id": "alexa-8e41a",
+    "storage_bucket": "alexa-8e41a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409133474598:android:8a318c85c38ea095de97e7",
+        "android_client_info": {
+          "package_name": "com.example.villa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409133474598-3t5124goekjq0qhpov5qdtp7mcl3r8qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxCuAGDIEL-dszeuL6VbnOE4w4-4lV7TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409133474598-3t5124goekjq0qhpov5qdtp7mcl3r8qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
